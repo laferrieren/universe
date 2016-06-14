@@ -2,7 +2,7 @@
   "assets": {
     "container": {
       "docker": {
-        "51cd5bc16406": "mesosphere/spark:1.6.0"
+        "51cd5bc16406": "quay.io/tamr/spark:mesosphere-1.5.2-hadoop2.6"
       }
     }
   },
